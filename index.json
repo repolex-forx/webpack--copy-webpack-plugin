@@ -1,0 +1,11 @@
+{
+  "org": "webpack",
+  "repo": "copy-webpack-plugin",
+  "versions": [
+    {
+      "commit": "18eb9d9fd4d01bfb886ae60ead7df184d75ba265",
+      "tag": "v14.0.0",
+      "parsed_at": "2026-11-22T06:18:39.237655+00:00"
+    }
+  ]
+}
