@@ -432,7 +432,9 @@
           "githubUrl": "git+https://github.com/webpack/webpack.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/18eb9d9fd4d01bfb886ae60ead7df184d75ba265/chunk-001.nq.gz",
+      "dep": "dep/18eb9d9fd4d01bfb886ae60ead7df184d75ba265.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
