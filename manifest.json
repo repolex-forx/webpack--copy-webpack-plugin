@@ -76,6 +76,362 @@
       ],
       "ast": [
         "aggregate/ast/18eb9d9fd4d01bfb886ae60ead7df184d75ba265/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/18eb9d9fd4d01bfb886ae60ead7df184d75ba265.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "glob-parent",
+          "ecosystem": "NPM",
+          "version": "6.0.1",
+          "githubOrg": "gulpjs",
+          "githubRepo": "glob-parent",
+          "githubCommit": "e1a15e1ce59a7b6c319878c03d291831461263b1",
+          "githubTag": "v6.0.1",
+          "githubUrl": "git+https://github.com/gulpjs/glob-parent.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "normalize-path",
+          "ecosystem": "NPM",
+          "version": "3.0.0",
+          "githubOrg": "jonschlinkert",
+          "githubRepo": "normalize-path",
+          "githubCommit": "ea100bbecf851e2cc89e54e295e91af7b835fe63",
+          "githubTag": "3.0.0",
+          "githubUrl": "git+https://github.com/jonschlinkert/normalize-path.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "schema-utils",
+          "ecosystem": "NPM",
+          "version": "4.2.0",
+          "githubOrg": "webpack",
+          "githubRepo": "schema-utils",
+          "githubCommit": "dcd6df12c191ac1b6cf5eda39ba5736c35f01ccb",
+          "githubTag": "v4.2.0",
+          "githubUrl": "git+https://github.com/webpack/schema-utils.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "serialize-javascript",
+          "ecosystem": "NPM",
+          "version": "7.0.3",
+          "githubOrg": "yahoo",
+          "githubRepo": "serialize-javascript",
+          "githubCommit": "d50571505a7776191346d714618867455b3354c1",
+          "githubTag": "v7.0.3",
+          "githubUrl": "git+https://github.com/yahoo/serialize-javascript.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tinyglobby",
+          "ecosystem": "NPM",
+          "version": "0.2.12",
+          "githubOrg": "SuperchupuDev",
+          "githubRepo": "tinyglobby",
+          "githubCommit": "fcfb08a36c3b4d48d5488c21000c95a956d9797c",
+          "githubTag": "0.2.12",
+          "githubUrl": "git+https://github.com/SuperchupuDev/tinyglobby.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/cli",
+          "ecosystem": "NPM",
+          "version": "7.24.6",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "9630250ca06f64a62d20caef62fcfa3b8d9165c8",
+          "githubTag": "v7.24.6",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/core",
+          "ecosystem": "NPM",
+          "version": "7.25.2",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "0f8f408f6eb5a5de9c228718fb6ff707d65bb930",
+          "githubTag": "v7.25.2",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@babel/preset-env",
+          "ecosystem": "NPM",
+          "version": "7.25.3",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "787c7cd6baa7f2bf691f52ea65a0f69105e9f27c",
+          "githubTag": "v7.25.3",
+          "githubUrl": "https://github.com/babel/babel.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@commitlint/cli",
+          "ecosystem": "NPM",
+          "version": "20.3.1",
+          "githubOrg": "conventional-changelog",
+          "githubRepo": "commitlint",
+          "githubCommit": "be3a280aeadef5afa8ec83dbbe794ab2f72b9c3a",
+          "githubTag": "v20.3.1",
+          "githubUrl": "git+https://github.com/conventional-changelog/commitlint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@commitlint/config-conventional",
+          "ecosystem": "NPM",
+          "version": "20.3.1",
+          "githubOrg": "conventional-changelog",
+          "githubRepo": "commitlint",
+          "githubCommit": "be3a280aeadef5afa8ec83dbbe794ab2f72b9c3a",
+          "githubTag": "v20.3.1",
+          "githubUrl": "git+https://github.com/conventional-changelog/commitlint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/glob-parent",
+          "ecosystem": "NPM",
+          "version": "5.1.3",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "22.13.5",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/normalize-path",
+          "ecosystem": "NPM",
+          "version": "3.0.2",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/picomatch",
+          "ecosystem": "NPM",
+          "version": "4.0.2",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/serialize-javascript",
+          "ecosystem": "NPM",
+          "version": "5.0.4",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "babel-jest",
+          "ecosystem": "NPM",
+          "version": "30.0.0",
+          "githubOrg": "jestjs",
+          "githubRepo": "jest",
+          "githubCommit": "a383155cd5af4539b3c447cfa7184462ee32f418",
+          "githubTag": "v30.0.0",
+          "githubUrl": "git+https://github.com/jestjs/jest.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "cross-env",
+          "ecosystem": "NPM",
+          "version": "7.0.3",
+          "githubOrg": "kentcdodds",
+          "githubRepo": "cross-env",
+          "githubCommit": "bb0287b199c3e4cea5c0e1a20ef0c8d78db1aaa4",
+          "githubTag": "v7.0.3",
+          "githubUrl": "git+https://github.com/kentcdodds/cross-env.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "cspell",
+          "ecosystem": "NPM",
+          "version": "9.6.2",
+          "githubOrg": "streetsidesoftware",
+          "githubRepo": "cspell",
+          "githubCommit": "646e18a04ff36d43f78a74e5055540e0f5297e91",
+          "githubTag": "v9.6.2",
+          "githubUrl": "git+https://github.com/streetsidesoftware/cspell.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "del-cli",
+          "ecosystem": "NPM",
+          "version": "7.0.0",
+          "githubOrg": "sindresorhus",
+          "githubRepo": "del-cli",
+          "githubCommit": "77857ae31a5a4b3beca03e76903cd8abb1cc7665",
+          "githubTag": "v7.0.0",
+          "githubUrl": "git+https://github.com/sindresorhus/del-cli.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint",
+          "ecosystem": "NPM",
+          "version": "9.31.0",
+          "githubOrg": "eslint",
+          "githubRepo": "eslint",
+          "githubCommit": "14053edc64bd378ab920575f2488fbfcbb5a4ea0",
+          "githubTag": "v9.31.0",
+          "githubUrl": "git+https://github.com/eslint/eslint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint-config-webpack",
+          "ecosystem": "NPM",
+          "version": "4.4.2",
+          "githubOrg": "webpack",
+          "githubRepo": "eslint-config-webpack",
+          "githubCommit": "67ef0782b4b5802851aeb0fe0ebab06ac69201b8",
+          "githubTag": "v4.4.2",
+          "githubUrl": "git+https://github.com/webpack/eslint-config-webpack.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint-plugin-jest",
+          "ecosystem": "NPM",
+          "version": "29.0.1",
+          "githubOrg": "jest-community",
+          "githubRepo": "eslint-plugin-jest",
+          "githubCommit": "0206a8aaa1f8bc31a5bec051cb6c51d043637566",
+          "githubTag": "v29.0.1",
+          "githubUrl": "git+https://github.com/jest-community/eslint-plugin-jest.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "file-loader",
+          "ecosystem": "NPM",
+          "version": "6.2.0",
+          "githubOrg": "webpack-contrib",
+          "githubRepo": "file-loader",
+          "githubCommit": "c423008dce1b16e1253b89b792f03774ffeb47de",
+          "githubTag": "v6.2.0",
+          "githubUrl": "git+https://github.com/webpack-contrib/file-loader.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "husky",
+          "ecosystem": "NPM",
+          "version": "9.1.4",
+          "githubOrg": "typicode",
+          "githubRepo": "husky",
+          "githubCommit": "fc549e0e5c8723a6d796f6ad26ef6590769f5d82",
+          "githubTag": "v9.1.4",
+          "githubUrl": "git+https://github.com/typicode/husky.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "is-gzip",
+          "ecosystem": "NPM",
+          "version": "2.0.0",
+          "githubOrg": "kevva",
+          "githubRepo": "is-gzip",
+          "githubCommit": "13dab7c877787bd5cff9de5482b1736f00df99c6",
+          "githubTag": "v2.0.0",
+          "githubUrl": "git+https://github.com/kevva/is-gzip.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "jest",
+          "ecosystem": "NPM",
+          "version": "30.0.0",
+          "githubOrg": "jestjs",
+          "githubRepo": "jest",
+          "githubCommit": "a383155cd5af4539b3c447cfa7184462ee32f418",
+          "githubTag": "v30.0.0",
+          "githubUrl": "git+https://github.com/jestjs/jest.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lint-staged",
+          "ecosystem": "NPM",
+          "version": "16.2.7",
+          "githubOrg": "lint-staged",
+          "githubRepo": "lint-staged",
+          "githubCommit": "0c1b000af8688366077ecc7093333e8a701c4f7c",
+          "githubTag": "v16.2.7",
+          "githubUrl": "git+https://github.com/lint-staged/lint-staged.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "memfs",
+          "ecosystem": "NPM",
+          "version": "4.11.1",
+          "githubOrg": "streamich",
+          "githubRepo": "memfs",
+          "githubCommit": "5147618475379dc767a336eb7742e0ca21820b3c",
+          "githubTag": "v4.11.1",
+          "githubUrl": "git+https://github.com/streamich/memfs.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "npm-run-all",
+          "ecosystem": "NPM",
+          "version": "4.1.5",
+          "githubOrg": "mysticatea",
+          "githubRepo": "npm-run-all",
+          "githubCommit": "df1511851a2b5e8a406e4a2622829b360f671afc",
+          "githubTag": "v4.1.5",
+          "githubUrl": "git+https://github.com/mysticatea/npm-run-all.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "prettier",
+          "ecosystem": "NPM",
+          "version": "3.2.5",
+          "githubOrg": "prettier",
+          "githubRepo": "prettier",
+          "githubCommit": "7142cf354cce2558f41574f44b967baf11d5b603",
+          "githubTag": "3.2.5",
+          "githubUrl": "git+https://github.com/prettier/prettier.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "standard-version",
+          "ecosystem": "NPM",
+          "version": "9.3.1",
+          "githubOrg": "conventional-changelog",
+          "githubRepo": "standard-version",
+          "githubCommit": "ca5ab8fb3bad6695e8571752cfdf46e243cea69e",
+          "githubTag": "v9.3.1",
+          "githubUrl": "git+https://github.com/conventional-changelog/standard-version.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "typescript",
+          "ecosystem": "NPM",
+          "version": "5.4.5",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubCommit": "27bcd4cb5a98bce46c9cdd749752703ead021a4b",
+          "githubTag": "v5.4.5",
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "webpack",
+          "ecosystem": "NPM",
+          "version": "5.91.0",
+          "githubOrg": "webpack",
+          "githubRepo": "webpack",
+          "githubCommit": "60daca54105f89eee45e118fd0bbc820730724ee",
+          "githubTag": "v5.91.0",
+          "githubUrl": "git+https://github.com/webpack/webpack.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
